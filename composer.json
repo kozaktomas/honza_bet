@@ -1,0 +1,17 @@
+{
+    "name": "kozaktomas/honza_bet",
+    "type": "project",
+    "license": "MIT license",
+    "authors": [
+        {
+            "name": "Tomas Kozak",
+            "email": "kozak@talko.cz"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.2"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
